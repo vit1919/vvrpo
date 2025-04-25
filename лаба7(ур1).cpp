@@ -13,7 +13,8 @@ struct Student {
     int inf;
     double average;
 };
-//ВОТ ИЗМЕНЕНИЕ 
+//ВОТ ИЗМЕНЕНИЕ
+//ВОТ ИЗМЕНЕНИЕ В САМОМ GITHUB
 void studentData(Student& data) {
     cout << "Введите имя: ";
     cin.ignore();
