@@ -1,4 +1,5 @@
 ﻿#include <iostream>
+
 #include <fstream>
 #include <string>
 #include <vector>
@@ -12,7 +13,7 @@ struct Student {
     int inf;
     double average;
 };
-
+//ВОТ ИЗМЕНЕНИЕ 
 void studentData(Student& data) {
     cout << "Введите имя: ";
     cin.ignore();
